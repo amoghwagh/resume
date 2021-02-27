@@ -2,9 +2,9 @@
   "main": {
     "name": "Amogh Wagh",
     "occupation": "Software Engineer",
-    "description": "I enjoy creating things that live on the Internet, whether that be websites, applications, or anything in between.",
+    "description": "I enjoy creating things that live on the Internet, whether that be websites, applications, or anything in between",
     "image": "profilepic.jpg",
-    "bio": "I am a quality focused software engineer with good knowledge in full stack web and cross-platform development. I have also worked on the cloud front for a brief tenure of my career as well. I am passionate about building quality focused products that improves the lives of those around me. I love spending the rest of my time on fixing little details and optimizing web apps. If you do not find me doing any of these, then, you can find me gaming, listening to music, swimming, volunteering or lifting heavy things.",
+    "bio": "I am a technology enthusiast with good knowledge in full stack web and cross-platform development. I have also worked on the cloud front for a brief tenure of my career as well. I am passionate about building quality focused products that improves the lives of those around me. I love spending the rest of my time on fixing little details and optimizing web apps. If you do not find me doing any of these, then, you can find me gaming, listening to music, swimming, volunteering or lifting heavy things.",
     "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "amoghwagh@gmail.com",
     "address": {
@@ -12,43 +12,34 @@
       "state": "Karnataka",
       "zip": "560079"
     },
+    "phone": "+91 9535898784",
     "website": "http://www.timbakerdev.com",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/amogh-wagh",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/amoghwagh",
+        "className": "fa fa-github"
+      },
+      {
         "name": "facebook",
-        "url": "http://facebook.com/tim.baker.906",
+        "url": "https://www.facebook.com/Amogh.Wagh",
         "className": "fa fa-facebook"
       },
       {
         "name": "twitter",
-        "url": "http://twitter.com",
+        "url": "https://twitter.com/Amogh_Wagh",
         "className": "fa fa-twitter"
       },
       {
-        "name": "google-plus",
-        "url": "http://googleplus.com/tbakerx",
-        "className": "fa fa-google-plus"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
-        "className": "fa fa-linkedin"
-      },
-      {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "https://www.instagram.com/amogh_wagh",
         "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "http://github.com/tbakerx",
-        "className": "fa fa-github"
-      },
-      {
-        "name": "skype",
-        "url": "http://skype.com",
-        "className": "fa fa-skype"
       }
     ]
   },
