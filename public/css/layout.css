@@ -505,6 +505,7 @@ ul#nav li.current a { color: #da5700; }
    font: 12px/18px 'opensans-light', sans-serif;
    color: #c6c7c7;
    margin-bottom: 0;
+   margin-top: 3px;
 }
 
 /* on hover */
