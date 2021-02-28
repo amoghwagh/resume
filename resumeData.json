@@ -1,0 +1,183 @@
+{
+  "main": {
+    "name": "Amogh Wagh",
+    "occupation": "Software Engineer.",
+    "description": "I enjoy creating things that live on the Internet, be it websites, applications, or anything in between",
+    "image": "profilepic.jpg",
+    "bio": "I am a technology enthusiast with good knowledge in full stack web and cross-platform development. I have worked on cloud front for a brief tenure of my career as well. I am passionate about building quality focused products that improves the lives of those around me. I love spending the rest of my time on fixing little details and optimizing web apps. If you do not find me doing any of these, then, you can find me gaming, listening to music, swimming, volunteering or lifting heavy things.",
+    "contactmessage": "Get in touch.",
+    "email": "amoghwagh@gmail.com",
+    "address": {
+      "city": "Bangalore",
+      "state": "Karnataka",
+      "zip": "560079"
+    },
+    "phone": "+91 9535898784",
+    "website": "http://www.amoghwagh.com",
+    "resumedownload": "https://docs.google.com/uc?export=download&id=1499EIfRsyreRT8MH4yWduAl7iAk_YgWz",
+    "social": [
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/amogh-wagh",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/amoghwagh",
+        "className": "fa fa-github"
+      },
+      {
+        "name": "facebook",
+        "url": "https://www.facebook.com/Amogh.Wagh",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Amogh_Wagh",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "instagram",
+        "url": "https://www.instagram.com/amogh_wagh",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "education": [
+      {
+        "school": "SJB Institute of Technology",
+        "degree": "Bachelor of Engineering in Information Science",
+        "graduated": "2015 - 2019",
+        "description": "The course was mainly focused on learning core Computer Science concepts, but I also learned about Java, Python, SQL, PHP, MVC, HTML, CSS and more. During my time in college, I specialized in Web Development and Deep Learning. I also learnt about the importance of building applications using computer science concepts and on how it makes a difference in the real world."
+      },
+      {
+        "school": "KLE S.Nijalingappa College",
+        "degree": "Pre University in Computer Science",
+        "graduated": "2013 - 2015",
+        "description": "The course was mainly focused on learning the basics of Computer Science. This is where my inclination and love towards computer science developed. Concepts like Computational Thinking, Computer Networks, DBMS were taught to us here."
+      }
+    ],
+    "work": [
+      {
+        "company": "Microsoft Research India",
+        "title": "Software Development Engineer",
+        "years": "October 2019 - December 2020",
+        "description": "As a Software Engineer, I developed a Mental Health App using React Native, SQL Server, ASP.NET Core and Azure. I developed a lot of custom components and screens for the app which was later open sourced under Microsoft's repo. The App was created in collaboration with NIMHANS. I worked on a paper about the app which discussed on creating a mobile platform for increasing access to Mental Healthcare in India. I also worked on another project which was based on cloud. I developed an XML generator and parser for the project which was then used to transfer data using satellites from the cloud to the hub, which were placed in different geological locations within India."
+      },
+      {
+        "company": "Indian Institute of Science",
+        "title": "Research Intern",
+        "years": "January 2019 - February 2019",
+        "description": "As a Research Intern, I worked on Image Recognition in Deep Learning using Convolutional Neural Networks and Capsule Networks. I developed a few models using CNNs to recognize numbers, which was later optimized using CapsNets, to work better for different orientations."
+      }
+    ],
+    "skills": [
+      {
+        "name": "Javascript",
+        "level": "85%"
+      },
+      {
+        "name": "React Native",
+        "level": "85%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      },
+      {
+        "name": "Node.js",
+        "level": "80%"
+      },
+      {
+        "name": "Express.js",
+        "level": "75%"
+      },
+      {
+        "name": "MySQL",
+        "level": "80%"
+      },
+      {
+        "name": "MongoDB",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5 / CSS",
+        "level": "80%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "jQuery",
+        "level": "60%"
+      },
+      {
+        "name": "Git",
+        "level": "60%"
+      },
+      {
+        "name": "ASP.NET Core",
+        "level": "55%"
+      },
+      {
+        "name": "DevOps",
+        "level": "30%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Github Desktop Client",
+        "category": "Used Electron and React to create a github desktop client. Various git functionalities were added along with showing up merge conflicts and not allowing it to stage the files if there is a conflict.",
+        "image": "github-desktop-client.jpg",
+        "url": "https://github.com/amoghwagh/github-desktop-client"
+      },
+      {
+        "title": "Trello React Clone",
+        "category": "Created a Mini Trello Clone using React and Trello API.",
+        "image": "trello.jpg",
+        "url": "https://github.com/amoghwagh/trello-react"
+      },
+      {
+        "title": "Rapido Api Express",
+        "category": "Created a Rapido API Mockup using Express and MySQL for the back-end and HTML and MaterializeCss for the front-end.",
+        "image": "rapido.jpg",
+        "url": "https://github.com/amoghwagh/rapido-api-express"
+      },
+      {
+        "title": "Olympics Dataset",
+        "category": "Used the Olympics dataset from Kaggle to solve a few questions using JS and visualized it using HighCharts.",
+        "image": "olympics.jpg",
+        "url": "https://github.com/amoghwagh/olympics-dataset-js"
+      },
+      {
+        "title": "Human Activity Recognition",
+        "category": "Created a Human Activity Recognition System for smartphones using RNN , LSTM and WISDM accelerometer data.",
+        "image": "human-activity-recogntion.jpg",
+        "url": "https://github.com/amoghwagh/human-activity-recognition"
+      },
+      {
+        "title": "Green Tree Initiative",
+        "category": "Created a Human Activity Recognition System for smartphones using RNN , LSTM and WISDM accelerometer data.",
+        "image": "green-tree.jpg",
+        "url": "https://github.com/amoghwagh/human-activity-recognition"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user": "Satya Nadella"
+      },
+      {
+        "text": "Amogh Wagh is the best.",
+        "user": "Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
