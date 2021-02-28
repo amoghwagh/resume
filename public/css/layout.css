@@ -24,6 +24,25 @@
 
 body { background: #0f0f0f; }
 
+::-webkit-scrollbar {
+   width: 6px;
+ }
+
+::-webkit-scrollbar-track {
+   box-shadow: inset 0 0 5px grey; 
+   border-radius: 10px;
+}
+
+
+::-webkit-scrollbar-thumb {
+   background: #da5700; 
+   border-radius: 20px;
+ }
+
+::-webkit-scrollbar-thumb:hover {
+   background: #bb4c03; 
+}
+
 /* ------------------------------------------------------------------ */
 /* b. Header Styles
 /* ------------------------------------------------------------------ */
