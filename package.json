@@ -17,5 +17,5 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "http://amoghwagh.github.io/"
+  "homepage": "http://amoghwagh.github.io/resume"
 }
