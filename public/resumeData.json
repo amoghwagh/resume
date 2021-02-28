@@ -13,8 +13,8 @@
       "zip": "560079"
     },
     "phone": "+91 9535898784",
-    "website": "http://www.timbakerdev.com",
-    "resumedownload": "http://timbakerdev.com",
+    "website": "http://www.amoghwagh.com",
+    "resumedownload": "https://docs.google.com/uc?export=download&id=1499EIfRsyreRT8MH4yWduAl7iAk_YgWz",
     "social": [
       {
         "name": "linkedin",
@@ -172,10 +172,10 @@
     "testimonials": [
       {
         "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "user": "Satya Nadella"
       },
       {
-        "text": "That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "text": "Amogh Wagh is the best.",
         "user": "Steve Wozniak... impersonator"
       }
     ]
