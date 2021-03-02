@@ -725,6 +725,62 @@ call-to-action .button {
 #testimonials blockquote cite:before { content: "\2014 \0020"; }
 #testimonials blockquote cite a,
 #testimonials blockquote cite a:visited { color: #8B9798; border: none }
+#testimonials .download-recommendation {
+   display: flex;
+   justify-content: flex-end;  
+}
+#testimonials .download-recommendation .button {
+   font : 14px/26px 'opensans-bold', sans-serif;
+}
+
+#testimonials .download-recommendation .button {
+   margin-top: 6px;
+   background: #444;
+}
+
+#testimonials .download-recommendation a:visited {
+   color: #fff;
+}
+
+#testimonials .download-recommendation .button:hover {
+   background: #fff;
+   color: #2B2B2B;
+}
+
+@media only screen and (max-width: 767px) {
+   #testimonials .download-recommendation {
+      display: flex;
+      justify-content: center;      
+   }
+   #testimonials .download-recommendation .button {
+      width: 100%;    
+   }
+}
+
+
+/* mobile narrow
+--------------------------------------------------------------- */
+@media only screen and (max-width: 460px) {
+   #testimonials .download-recommendation {
+      display: flex;
+      justify-content: center;
+   }
+
+   #testimonials .download-recommendation .button {
+      width: 100%;    
+   }
+}
+
+/* larger screens
+--------------------------------------------------------------- */
+@media screen and (min-width: 1200px) {
+   #testimonials .download-recommendation {
+      display: flex;
+      justify-content: flex-end;    
+   }
+
+}
+
 
 /* Flex Slider
 /* ------------------------------------------------------------------ */
