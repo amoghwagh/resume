@@ -3,6 +3,7 @@ import React, { Component } from "react";
 class Testimonials extends Component {
   render() {
     if (this.props.data) {
+      var recommendationUrl = this.props.data.testimonials.recommendationUrl;
       var testimonials = this.props.data.testimonials.map(function (
         testimonials
       ) {
@@ -29,6 +30,13 @@ class Testimonials extends Component {
 
             <div className="ten columns flex-container">
               <ul className="slides">{testimonials}</ul>
+            </div>
+          </div>
+          <div className="row">
+            <div className="twelve columns flex-container main-col download-recommendation">
+              <a href={recommendationUrl} className="button">
+                <i className="fa fa-eye"></i> View Recommendation
+              </a>
             </div>
           </div>
         </div>
