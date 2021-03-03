@@ -3,7 +3,7 @@ import React, { Component } from "react";
 class Testimonials extends Component {
   render() {
     if (this.props.data) {
-      var recommendationUrl = this.props.data.testimonials.recommendationUrl;
+      var recommendationUrl = this.props.data.testimonials[0].recommendationUrl;
       var testimonials = this.props.data.testimonials.map(function (
         testimonials
       ) {
